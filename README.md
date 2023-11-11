@@ -1,1 +1,1 @@
-# topotrainer-beta
+# topotrainer
